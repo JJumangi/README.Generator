@@ -10,8 +10,8 @@ For this assignment:
 
 ## **Preview of Working Application**
 
-![Website Screenshot](./images/Screenshot%202023-07-27%20101146.png)
-
+- Link to Application Demo:
+  (https://drive.google.com/file/d/1X-xQnLM_5XPt5SwO_-4egqfIn88iyTz3/view)
 
 Thank you for looking at my project!
 -Jon

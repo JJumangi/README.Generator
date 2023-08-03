@@ -1,11 +1,11 @@
-# Title!!
+# Title 1
 
 ## License
-MIT
+BSD 2-Clause
 
 ## Description of Project
 
-This is an awesome project.
+This is a great project... can't wait for you tosee!
 
 ## Table of Contents
 
@@ -26,21 +26,21 @@ To run tests, use the command "npm test".
 
 ## Usage
 
-This repo is best served hot!
+look, don't touch...
 
 ## Contributing to the Repo
 
-Look, don't touch.
+best served warm
 
 ## Questions
 
 Please feel free to reach out to me with any questions!
 
 * JJumangi
-* JJumangi@email.com
+* fakeemail@email.com
 
-## Special Thanks to
+## Thanks
 
-Thanks to me myself and I
+Thanks to you!
 * Thank you for viewing this repo, please reach out if you have any other questions
 
