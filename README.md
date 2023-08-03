@@ -1,46 +1,17 @@
-# Title 1
+# **README Generator Assignment**
 
-## License
-BSD 2-Clause
+## **Assignment Intention**
 
-## Description of Project
+For this assignment:
 
-This is a great project... can't wait for you tosee!
+- I was attempting to create a command-line application that generates a README.md file with a user's input.
+- This application utlizes the inquirer package.
+- The README file includes a section for the following: license, title, description, installation commands, testing commands, usage, contributing to the repo, questions/contact info, and special thanks.
 
-## Table of Contents
+## **Preview of Working Application**
 
-* [Installation](#installation)
-* [Testing](#testing)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Questions](#questions)
-* [Thanks](#thanks)
+- Link to Application Demo:
+  (https://drive.google.com/file/d/1X-xQnLM_5XPt5SwO_-4egqfIn88iyTz3/view)
 
-## Installation
-
-The command "npm i" is used to install the nessary dependencies.
-
-## Testing
-
-To run tests, use the command "npm test".
-
-## Usage
-
-look, don't touch...
-
-## Contributing to the Repo
-
-best served warm
-
-## Questions
-
-Please feel free to reach out to me with any questions!
-
-* JJumangi
-* fakeemail@email.com
-
-## Thanks
-
-Thanks to you!
-* Thank you for viewing this repo, please reach out if you have any other questions
-
+Thank you for looking at my project!
+-Jon
